@@ -3,7 +3,7 @@
 #+DATE: setembro/2016
 
 * PICOBIT
-
+  
 ** Requisitos
 
 *** Arm-none-eabi
@@ -39,6 +39,9 @@ $ sudo apt-get install gawk
 #+END_SRC
 
 *** STLINK
+
+Ver arquivo:
+https://github.com/texane/stlink/blob/master/doc/compiling.md
 
 #+BEGIN_SRC shell
 $ git clone https://github.com/texane/stlink

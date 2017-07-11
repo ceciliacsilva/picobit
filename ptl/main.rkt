@@ -1,5 +1,7 @@
 #lang racket
 
+(provide (all-defined-out))
+
 (require libserialport)
 (require "defs.rkt")
 (require "crc16_calc.rkt")
